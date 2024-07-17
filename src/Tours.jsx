@@ -1,6 +1,6 @@
 const Tours = () => {
   return (
-    <div>Tours</div>
+    <h2>Tours</h2>
   )
 }
 export default Tours;
